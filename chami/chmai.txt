@@ -1,1 +1,2 @@
-My name is Chami 
+My name is Chami
+I want to rename this file to Chami 
